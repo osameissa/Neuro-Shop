@@ -758,6 +758,7 @@ hr {
   }
   .section-title {
     margin-bottom: var(--mb-6);
+    font-size: 3rem;
   }
   .section-title::after {
     width: 80px;
